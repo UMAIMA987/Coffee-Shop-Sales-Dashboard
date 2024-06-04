@@ -5,8 +5,11 @@ I just completed my Excel dashboard project, analyzing coffee shop sales data. T
 # Main KPIs:
 
 Total Sales
+
 Footfall
+
 Average Bill
+
 Average Order
 
 # Charts Used:
