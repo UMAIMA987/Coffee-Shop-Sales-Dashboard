@@ -1,6 +1,8 @@
 # Coffee-Shop-Sales-Dashboard
 
-I just completed my Excel dashboard project, analyzing coffee shop sales data. This project involved cleaning and transforming the data, extracting important new columns, using pivot tables, formulas, and charts, and formatting it to create an insightful dashboard. Here’s an overview:
+I just completed my Excel dashboard project, analyzing coffee shop sales data. This project involved cleaning and transforming the data, extracting important new columns, using pivot tables, formulas, and charts, and formatting it to create an insightful dashboard. 
+
+Here’s an overview:
 
 # Main KPIs:
 
